@@ -1,0 +1,156 @@
+---
+title: "M12 Article Summary: Common Method Bias"
+author: "Yujin Jeong"
+format: 
+  html:
+    embed-resources: true
+---
+
+## Article Information
+
+**Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012).**  
+“Sources of Method Bias in Social Science Research and Recommendations on How to Control It.”  
+*Annual Review of Psychology, 63*, 539–569.
+
+## 1. Introduction
+
+In social science research, **common method bias (CMB)** is a possible problem when researchers collect information about different variables using the same method. For example, a researcher may ask the same person to report both the independent variable (IV) and the dependent variable (DV) in one survey.
+
+In this situation, the relationship between the variables may be affected by the survey method, the respondent’s attitude, or the way the questions are presented. As a result, the relationship may appear stronger or weaker than it actually is. In some cases, method bias may also make a relationship appear when no real relationship exists.
+
+Podsakoff et al. explain that method bias can affect the reliability and validity of measures. It can also lead to incorrect conclusions about research hypotheses. Therefore, researchers should try to identify and control method bias during both the study design and data analysis stages.
+
+## 2. Common Sources of Method Bias
+
+The authors identify several common sources of method bias.
+
+### A. Common Rater Effects
+
+Common rater effects happen when the same person provides information about both the IV and the DV. Respondents may answer questions in a consistent way because of their personal beliefs, mood, or desire to present themselves positively.
+
+For example, an employee may report that their manager provides strong support and also report that they have high job satisfaction. The two answers may be related, but the relationship could partly reflect the employee’s general positive attitude.
+
+Social desirability is another possible problem. Respondents may give answers that make them look responsible, successful, or socially acceptable instead of reporting their honest opinions.
+
+### B. Item Characteristics
+
+Item characteristics refer to the wording and structure of survey questions. Questions that are confusing, vague, overly complicated, or double-barreled can influence how participants respond.
+
+A double-barreled question asks about two different ideas in one question. For example:
+
+> “My manager is supportive and communicates clearly.”
+
+A respondent may think that the manager is supportive but does not communicate clearly. Because the question combines both ideas, the respondent cannot give a separate answer for each one.
+
+### C. Item Context
+
+Item context refers to the order and placement of questions in a survey. Earlier questions can influence how respondents understand or answer later questions.
+
+For example, if a survey first asks participants to think about problems at work, they may rate their job satisfaction more negatively later in the survey. Questions that are placed close together may also create similarities in participants’ answers.
+
+### D. Measurement Context
+
+Measurement context includes the time, location, medium, and general situation in which data are collected. Measuring the IV and DV at the same time, in the same place, and using the same type of questionnaire can increase method bias.
+
+For example, if employees answer questions about leadership and job performance in one short survey, they may use their answer to one question when answering the next question. This can make the relationship between the variables seem stronger than it really is.
+
+## 3. Effects of Method Bias
+
+Method bias does not always influence results in the same direction. It can:
+
+- Make relationships between variables appear stronger than they really are.
+- Make relationships appear weaker than they really are.
+- Produce a relationship when there is no meaningful relationship.
+- Affect the reliability and validity of survey measures.
+- Lead researchers to incorrectly accept or reject a hypothesis.
+
+This means that method bias is not only a problem when correlations are inflated. It can also make it more difficult to identify real relationships between constructs.
+
+The authors also explain that method bias may not affect every variable equally. Some survey items may be more sensitive to wording, response styles, or social desirability than others. Therefore, researchers should not assume that one method factor affects all measures in exactly the same way.
+
+## 4. How to Control Method Bias
+
+Researchers can use two main strategies to control method bias: **procedural remedies** and **statistical remedies**.
+
+### A. Procedural Remedies
+
+Procedural remedies are steps taken before or during data collection. These methods are usually preferred because they prevent or reduce bias before it affects the data.
+
+#### Separate the Sources of Information
+
+Researchers can collect information about the IV and DV from different people. For example, employees can report their work attitudes, while supervisors report their job performance.
+
+This method can reduce the influence of one respondent’s personal response style on both variables.
+
+#### Separate the Measurement Times
+
+Researchers can measure the IV and DV at different times. For example, leadership style could be measured first, and employee performance could be measured several weeks later.
+
+Time separation can make it more difficult for participants to repeat the same response pattern across all questions. However, the time gap should be appropriate for the topic because a long delay may cause participants to drop out or may change the phenomenon being studied.
+
+#### Separate the Measurement Context
+
+Researchers can use different locations, response formats, or survey sections for different variables. They can also separate the IV and DV questions within the questionnaire.
+
+These techniques can reduce the influence of question order and make the purpose of the study less obvious to participants.
+
+#### Protect Respondent Anonymity
+
+Researchers should clearly explain that participants’ answers are confidential or anonymous. This may reduce social desirability bias and encourage participants to provide more honest answers.
+
+Researchers should also explain that there are no right or wrong answers and that honest opinions are valuable.
+
+#### Improve Survey Questions
+
+Survey items should be clear, specific, and easy to understand. Researchers should avoid:
+
+- Ambiguous wording.
+- Double-barreled questions.
+- Unnecessary technical terms.
+- Questions that pressure participants to answer in a socially desirable way.
+- Confusing negative or reverse-worded items.
+
+Reverse-worded items can sometimes reduce response patterns, but they should be used carefully because they may also confuse participants.
+
+### B. Statistical Remedies
+
+Statistical remedies are used after data have been collected. They can help researchers examine whether method bias may be influencing the results.
+
+Possible techniques include:
+
+- Adding a common latent method factor to a structural equation model.
+- Using a measured latent method factor when a specific source of bias can be measured.
+- Using a marker variable that is theoretically unrelated to the main study variables.
+- Measuring and controlling for response styles such as acquiescence or extreme responding.
+- Using multiple indicators and confirmatory factor analysis.
+
+Harman’s single-factor test is another commonly used method. However, the authors explain that it has important limitations and should not be treated as strong proof that method bias is absent. Statistical tests should be used together with careful study design rather than as the only solution.
+
+## 5. Recommended Approach
+
+Podsakoff et al. recommend using procedural remedies whenever possible. It is better to prevent method bias during the research design stage than to try to correct it later with statistical techniques.
+
+A strong research design may include:
+
+1. Clear and simple survey questions.
+2. Anonymous or confidential responses.
+3. Different sources for predictor and outcome variables.
+4. Separation between the measurement of the IV and DV.
+5. Statistical checks for possible method bias.
+
+Using more than one remedy is helpful because no single technique can remove every possible source of bias.
+
+## 6. Conclusion
+
+Common method bias is a serious issue in social science research because it can affect the accuracy of research findings. It may change the relationships between variables, reduce the validity of measures, and lead to incorrect conclusions.
+
+The main lesson from this article is that researchers should think about method bias before collecting data. They should design surveys carefully, use different sources or measurement times when possible, and protect respondents’ privacy. Statistical methods can provide an additional check, but they should not replace good research design.
+
+Overall, controlling common method bias helps researchers make more accurate and trustworthy conclusions about the relationships they are studying.
+
+---
+
+## Appendix
+
+- **GitHub Repo:** [Visit the GitHub Repository](https://github.com/jennyjeong53/M12){target="_blank"}
+- **GitHub Pages:** [Visit the GitHub Pages Website](https://jennyjeong53.github.io/M12/){target="_blank"}
